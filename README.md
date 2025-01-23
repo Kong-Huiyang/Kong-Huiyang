@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋I'm Huiyang Kong(孔会扬).
 
-<!--
-**Kong-Huiyang/Kong-Huiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻  About Me:  
 
-Here are some ideas to get you started:
+  - 🎓  Master's degree,USST(Electronic Information)    
+  - 💼  Ti5 ROBOT(Robot Algorithm Engineer)  
+  - 🔭  Robot software & hardware, RL, Simulation  
+  - 🌱  Swimming,chinese chess,travel,game,running  
+  - ✍️  ORCID:https://orcid.org/0009-0003-1731-4575
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack:  
+  
+  - 💻  Python, C, C++, ROS, ROS2  
+  - ⚙️  Git, GitHub, CSDN  
+  - 🔧  Visual Studio Code, PyCharm  
+  - 🖥  Mujoco, Isaacgym, Isaacsim
+
+🤝🏻 Connect with Me:  
+
+  - 📫  k15651356039@163.com
