@@ -3,7 +3,7 @@ Hi there 👋I'm Huiyang Kong(孔会扬).
 👨🏻‍💻  About Me:  
 
   - 🎓  Master's degree,USST(Electronic Information)    
-  - 💼  Ti5ROBOT && Cyborg(RL Algorithm Engineer)  
+  - 💼  Ti5ROBOT(RL Algorithm Engineer)  
   - 🔭  Robot software & hardware, RL, Simulation  
   - 🌱  Swimming,chinese chess,travel,game,running  
   - ✍️  ORCID:https://orcid.org/0009-0003-1731-4575
